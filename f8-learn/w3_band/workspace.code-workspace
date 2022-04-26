@@ -1,0 +1,35 @@
+{
+	"folders": [
+		{
+			"name": "TCALL",
+			"path": "..\\..\\..\\TCALL"
+		},
+		{
+			"name": "C++",
+			"path": "..\\..\\..\\Users\\C++"
+		},
+		{
+			"name": "sample_project",
+			"path": "c:\\Users\\Admin\\sample_project"
+		},
+		{
+			"name": "Flutter",
+			"path": "..\\..\\..\\Users\\Flutter"
+		},
+		{
+			"path": "..\\.."
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true,
+		"liveServer.settings.multiRootWorkspaceName": "Workspace",
+		"files.associations": {
+			"*.xml": "bat",
+			"string": "cpp",
+			"array": "cpp",
+			"regex": "cpp",
+			"ostream": "cpp",
+			"iostream": "cpp"
+		}
+	}
+}
